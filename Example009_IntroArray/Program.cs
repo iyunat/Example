@@ -17,6 +17,6 @@ int max = Max (
             Max (array [6], array[7], array[8]));
 
 Console.WriteLine(max);
-
+//создание массивов
 
 
